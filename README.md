@@ -2,9 +2,9 @@
 Open Chocolatey Reducer is a script that mimics the official Package Reducer available in the Pro and Business versions of Chocolatey.
 
 # Installation
-1. Extract "OCR_0.0.0.zip" into your Downloads folder. If you extract to a different directory, you'll have to edit the bat file accordingly.
+1. Extract "OCR_1.0.0.zip" into your Downloads folder. If you extract to a different directory, you'll have to edit the bat file accordingly.
 
-2. Open the "Installer" directory located within the "OCR_0.0.0" folder that you just extracted.
+2. Open the "Installer" directory located within the "OCR_1.0.0" folder that you just extracted.
 
 3. Open (Step 1) 
 
@@ -19,6 +19,6 @@ Open Chocolatey Reducer is a script that mimics the official Package Reducer ava
 7. Press any key to continue . . .
 
 # Post-Installation
-1. Navigate back to your Downloads folder and delete "OCR_0.0.0" and "OCR_0.0.0.zip"
+1. Navigate back to your Downloads folder and delete "OCR_1.0.0" and "OCR_1.0.0.zip"
 
 2. Tell your friends about this script :D Spread the word!
