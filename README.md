@@ -6,7 +6,7 @@ Open Chocolatey Reducer is a script that mimics the official Package Reducer ava
 
 2. Open the "Installer" directory located within the "OCR_1.0.0" folder that you just extracted.
 
-3. Open (Step 1) 
+3. Open "(Step 1) Import Task into Task Scheduler"
 
 4. Import the "Open Chocolatey Reducer.xml" into Task Scheduler.
 
