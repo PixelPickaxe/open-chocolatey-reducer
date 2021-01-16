@@ -1,5 +1,5 @@
 # open-chocolatey-reducer
-Open Chocolatey Reducer is a script that mimics the official Chocolatey Package Reducerhttps://docs.chocolatey.org/en-us/features/package-reducer available in the [Pro and Business versions](https://chocolatey.org/pricing#pricing-faq) of [Chocolatey](https://chocolatey.org).
+Open Chocolatey Reducer is a script that mimics the official Chocolatey Package Reducer available in the [Pro and Business versions](https://chocolatey.org/pricing#pricing-faq) of [Chocolatey](https://chocolatey.org).
 
 # How it works
 The official Chocolatey Package Reducer scans the "%APPDATA%\chocolatey\" directory recursively for any 7z, zip, rar, gz, tar, sfx, iso, msi, msu, msp, and exe files.
