@@ -11,6 +11,7 @@ Open Chocolatey Reducer is a script that mimics the official Package Reducer ava
 4. Import the "Open Chocolatey Reducer.xml" into Task Scheduler.
 
 (A guide on how to import tasks can be found here: https://www.windowscentral.com/how-export-and-import-scheduled-tasks-windows-10)
+
 5. Return to the "Installer" directory.
 
 6. Right-click "(Step 2) Installer" and click "Run as administrator" from the context menu.
