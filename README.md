@@ -8,7 +8,12 @@ The Chocolatey Package Reducer also reduces the file size of nupkg files, but th
 
 The Open Chocolatey Reducer mimics the Chocolatey Package Reducer by using Windows batch scripting to manually delete the listed file types at the log-on of any user, effectively achieving the same results as the Chocolatey Package Reducer.
 
-# Installation
+### Requirements
+* Working installation of Windows 7 / 8 / 8.1 / 10
+* Working installation of Chocolatey
+* Administrator access on your PC
+
+## Installation
 1. Extract "OCR_1.0.0.zip" into your Downloads folder. If you extract to a different directory, you'll have to edit the bat file accordingly.
 
 2. Open the "Installer" directory located within the "OCR_1.0.0" folder that you just extracted.
@@ -25,7 +30,7 @@ The Open Chocolatey Reducer mimics the Chocolatey Package Reducer by using Windo
 
 7. Press any key to continue . . .
 
-# Post-Installation
+## Post-Installation
 1. Navigate back to your Downloads folder and delete "OCR_1.0.0" and "OCR_1.0.0.zip"
 
 2. Tell your friends about this script :D Spread the word!
