@@ -14,7 +14,7 @@ Open Chocolatey Reducer mimics the Chocolatey Package Reducer by using Windows b
 
 # Installation
 
-1. Extract "OCR_1.0.0.zip" into your Downloads folder. If you extract to a different directory, you'll have to edit the .bat file accordingly.
+1. Extract "OCR_1.0.0.zip" into your Downloads folder. If you extract to a different directory, you'll have to edit the installation .bat file accordingly.
 
 2. Open the "Installer" directory located within the "OCR_1.0.0" folder that you just extracted.
 
