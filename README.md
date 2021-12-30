@@ -4,7 +4,7 @@ Open Chocolatey Reducer is a script that mimics the official [Chocolatey Package
 ### How it works
 Open Chocolatey Reducer mimics the official Chocolatey Package Reducer by using Windows batch scripting to manually & recursively delete any 7z, zip, rar, gz, tar, sfx, iso, msi, msu, msp, and exe files in the "%APPDATA%\chocolatey\" directory at the log-on of any user.
 
-The __official__ [Chocolatey Package Reducer](https://docs.chocolatey.org/en-us/features/package-reducer#mainContent) scans the "%APPDATA%\chocolatey\" directory recursively for any 7z, zip, rar, gz, tar, sfx, iso, msi, msu, msp, and exe files. If it locates any of the listed file types, it deletes them. Additionally, it also reduces the file size of nupkg files, but this is something I was not able to accomplish with my limited knowledge. This is an effective way to remove unwanted installation files, but it's unfortunately locked behind a paywall. I highly encourage you to support Chocolatey if you feel so inclined. 
+The __official__ [Chocolatey Package Reducer](https://docs.chocolatey.org/en-us/features/package-reducer#mainContent) scans the "%APPDATA%\chocolatey\" directory recursively for any 7z, zip, rar, gz, tar, sfx, iso, msi, msu, msp, and exe files. If it locates any of the listed file types, it deletes them. Additionally, it also reduces the file size of nupkg files, but reducing the files of nupkg files is something I was not able to accomplish with my limited knowledge. This is an effective way to remove unwanted installation files, but it's unfortunately locked behind a paywall. I highly encourage you to support Chocolatey if you feel so inclined. 
 
 
 ## Requirements
