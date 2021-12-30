@@ -14,7 +14,7 @@ The __official__ [Chocolatey Package Reducer](https://docs.chocolatey.org/en-us/
 
 # Installation
 
-1. Extract "OCR_1.0.0.zip" into your Downloads folder. If you extract to a different directory, you'll have to edit the installation .bat file accordingly.
+1. Extract "OCR_1.0.0.zip" into your Downloads folder. **If you extract to a different directory, you'll have to edit the installation .bat file accordingly.**
 
 2. Open the "Installer" directory located within the "OCR_1.0.0" folder that you just extracted.
 
