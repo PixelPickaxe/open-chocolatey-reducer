@@ -35,5 +35,7 @@ A guide on how to import tasks can be found [here](https://www.windowscentral.co
 
 2. Tell your friends about this script :D Spread the word!
 
+3. Upon the next reboot, the script will become active.
+
 ### License
 Boost Software License - Version 1.0 - see [LICENSE](https://github.com/PixelPickaxe/open-chocolatey-reducer/blob/main/LICENSE)
