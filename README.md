@@ -14,9 +14,9 @@ The __official__ [Chocolatey Package Reducer](https://docs.chocolatey.org/en-us/
 
 # Installation
 
-1. Extract "OCR_1.0.0.zip" into your Downloads folder. **If you extract to a different directory, you'll have to edit the installation .bat file accordingly.**
+1. Extract "OCR_1.0.1.zip" into your Downloads folder. **If you extract to a different directory, you'll have to edit the installation .bat file accordingly.**
 
-2. Open the "Installer" directory located within the "OCR_1.0.0" folder that you just extracted.
+2. Open the "Installer" directory located within the "OCR_1.0.1" folder that you just extracted.
 
 3. Open "(Step 1) Import Task into Task Scheduler"
 
@@ -31,7 +31,7 @@ A guide on how to import tasks can be found [here](https://www.windowscentral.co
 7. Press any key to continue . . .
 
 ## Post-Installation
-1. Navigate back to your Downloads folder and delete "OCR_1.0.0" and "OCR_1.0.0.zip"
+1. Navigate back to your Downloads folder and delete "OCR_1.0.1" and "OCR_1.0.1.zip"
 
 2. Tell your friends about this script :D Spread the word!
 
