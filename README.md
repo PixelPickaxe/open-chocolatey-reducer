@@ -22,7 +22,7 @@ The __official__ [Chocolatey Package Reducer](https://docs.chocolatey.org/en-us/
 
 4. Import the "Open Chocolatey Reducer.xml" into Task Scheduler.
 
-A guide on how to import tasks can be found [here](https://www.windowscentral.com/how-export-and-import-scheduled-tasks-windows-10).
+A guide on how to import tasks can be found [here](https://www.windowscentral.com/how-export-and-import-scheduled-tasks-windows-10) or elsewhere online.
 
 5. Return to the "Installer" directory.
 
